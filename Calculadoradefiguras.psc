@@ -53,7 +53,7 @@ SubProceso Decagono(lado,apotema)
 FinSubProceso
 SubProceso Dodecagono(lado,apotema)
 	Definir area,perimetro Como Real
-	perimetro=lado*10
+	perimetro=lado*12
 	area=(perimetro*apotema)/2
 	Escribir "El area del area es: ", area ;
 	Escribir "el perimetro del are es: ", perimetro;
