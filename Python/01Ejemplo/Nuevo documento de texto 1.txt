@@ -1,0 +1,3 @@
+
+Es un lenguaje interpretado, no pasa por un estado 
+de compilacion, significa que no psa por un lenguaje maqui
