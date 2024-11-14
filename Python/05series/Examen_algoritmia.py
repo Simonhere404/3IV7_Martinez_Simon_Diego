@@ -65,19 +65,19 @@ def consultar_peleador():
         text_box = tk.Text(ventana_consulta, height=15, width=70, wrap=tk.WORD, font=("Arial", 10))
         text_box.pack(padx=10, pady=10)
 
-        consulta = ""
-        for peleador in peleadores:
-            consulta = f"Nombre: {peleador['nombre']} ({peleador['apodo']})\n"
-            consulta = f"Peso: {peleador['peso']} kg\n"
-            consulta = f"Categoría: {peleador['categoria']}\n"
-            consulta = f"Record: {peleador['record_de_victorias']}\n"
-            consulta = f"Estilo de lucha: {peleador['estilo_de_lucha']}\n"
-            consulta = f"Logros: {peleador['logros']}\n"
-            consulta = f"Entrenador: {peleador['entrenador']}\n"
-            consulta = "-" * 40 + "\n"
+    consulta = ""
+    for peleador in peleadores:
+            consulta += f"Nombre: {peleador['nombre']} ({peleador['apodo']})\n"
+            consulta += f"Peso: {peleador['peso']} kg\n"
+            consulta += f"Categoría: {peleador['categoria']}\n"
+            consulta += f"Record: {peleador['record_de_victorias']}\n"
+            consulta += f"Estilo de lucha: {peleador['estilo_de_lucha']}\n"
+            consulta += f"Logros: {peleador['logros']}\n"
+            consulta += f"Entrenador: {peleador['entrenador']}\n"
+            consulta += "-" * 40 + "\n"
 
-        text_box.insert(tk.END, consulta)
-        text_box.config(state=tk.DISABLED)
+    text_box.insert(tk.END, consulta)
+    text_box.config(state=tk.DISABLED)
 
 def editar_peleador():
     nombre = simpledialog.askstring("Entrada", "Ingresa el nombre del peleador que deseas editar: ")

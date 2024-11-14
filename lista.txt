@@ -1,0 +1,31 @@
+Kamaru Usman, The Nigerian Nightmare, 170, Welterweight, 20-1, Wrestling, Campeón de peso welter de UFC, Trevor Wittman
+Israel Adesanya, The Last Stylebender, 185, Middleweight, 20-1, Kickboxing, Campeón de peso medio de UFC, Eugene Bareman
+Jon Jones, Bones, 205, Light Heavyweight, 26-1-1, Wrestling, Campeón de peso semipesado de UFC, Mike Winklejohn
+Francis Ngannou, The Predator, 263, Heavyweight, 16-3, Striking, Campeón de peso pesado de UFC, Eric Nicksick
+Amanda Nunes, The Lioness, 135, Bantamweight, 21-4, Brazilian Jiu-Jitsu, Campeona de peso gallo y pluma de UFC, Din Thomas
+Conor McGregor, Notorious, 155, Lightweight, 22-6, Striking, Campeón de peso pluma y ligero de UFC, John Kavanagh
+Stipe Miocic, N/A, 240, Heavyweight, 20-3, Boxing, Campeón de peso pesado de UFC, Marcus Marinelli
+Daniel Cormier, DC, 236, Light Heavyweight, 22-3-1, Wrestling, Campeón de peso semipesado de UFC, Javier Mendez
+Nate Diaz, N/A, 170, Welterweight, 20-13, Brazilian Jiu-Jitsu, Ganador de la Pelea de la Noche contra Conor McGregor, Cesar Gracie
+Henry Cejudo, Triple C, 125, Flyweight, 16-2, Wrestling, Campeón de peso mosca y gallo de UFC, Eric Albarracin
+Charles Oliveira, Do Bronx, 155, Lightweight, 34-9, Brazilian Jiu-Jitsu, Campeón de peso ligero de UFC, Diego Lima
+Max Holloway, Blessed, 145, Featherweight, 22-6, Striking, Campeón de peso pluma de UFC, Eugene Bareman
+Tony Ferguson, El Cucuy, 155, Lightweight, 25-7, Brazilian Jiu-Jitsu, Ganador de 12 peleas consecutivas en UFC, Eddie Bravo
+Robert Whittaker, The Reaper, 185, Middleweight, 24-6, Kickboxing, Campeón interino de peso medio de UFC, Eugene Bareman
+Justin Gaethje, Highlight, 155, Lightweight, 23-4, Striking, Peleador del año 2018 de UFC, Trevor Wittman
+Piotr Yan, No Mercy, 135, Bantamweight, 16-4, Boxing, Campeón de peso gallo de UFC, Dmitry Zainudinov
+Dustin Poirier, The Diamond, 155, Lightweight, 28-7, Striking, Peleador del año 2021 de UFC, Mike Brown
+Marlon Moraes, Magic, 135, Bantamweight, 23-10-1, Brazilian Jiu-Jitsu, Campeón de peso gallo de WSOF, Mark Henry
+Jorge Masvidal, Gamebred, 170, Welterweight, 35-15, Striking, Peleador de la Noche en UFC, Mike Brown
+Zabit Magomedsharipov, N/A, 145, Featherweight, 18-1, Sambo, Candidato a ser campeón de UFC, Mark Henry
+Robbie Lawler, Ruthless, 170, Welterweight, 28-15, Striking, Campeón de peso welter de UFC, Duke Roufus
+Germaine de Randamie, The Iron Lady, 135, Bantamweight, 10-4, Kickboxing, Campeona de peso gallo de UFC, Mike Passenier
+Zhang Weili, Magnum, 115, Strawweight, 21-2, Chinese Martial Arts, Campeona de peso paja de UFC, Henry Cejudo
+Valentina Shevchenko, Bullet, 125, Flyweight, 23-4, Muay Thai, Campeona de peso mosca de UFC, Pavel Fedotov
+Khabib Nurmagomedov, The Eagle, 155, Lightweight, 29-0, Sambo, Campeón de peso ligero de UFC, Javier Mendez
+Curtis Blaydes, Razor, 257, Heavyweight, 16-3, Wrestling, Peleador destacado en peso pesado de UFC, Eric Nicksick
+Miesha Tate, Cupcake, 135, Bantamweight, 19-7, Wrestling, Campeona de peso gallo de UFC, Bryan Caraway
+Anderson Silva, Spider, 185, Middleweight, 34-11, Muay Thai, Campeón histórico de peso medio de UFC, Edson Barboza
+Chris Weidman, All American, 185, Middleweight, 15-6, Wrestling, Campeón de peso medio de UFC, Ray Longo
+Aljamain Sterling, Funk Master, 135, Bantamweight, 23-3, Brazilian Jiu-Jitsu, Campeón de peso gallo de UFC, Ray Longo
+simon,pet,99,crusero,24,straikin,ganador ded la ufc ,hkj
