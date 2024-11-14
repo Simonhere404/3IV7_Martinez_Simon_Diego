@@ -105,6 +105,22 @@ def borrar_peleador():
             return
     messagebox.showinfo("Error", "No se encontró al peleador con ese nombre.")
 
+def buscar_peleador():
+    nombre = simpledialog.askstring("Buscar Peleador", "Ingresa el nombre del peleador que deseas buscar: ")
+    for peleador in peleadores:
+        if peleador['nombre'].lower() == nombre.lower():
+            detalles = f"Nombre: {peleador['nombre']} ({peleador['apodo']})\n"
+            detalles += f"Peso: {peleador['peso']} kg\n"
+            detalles += f"Categoría: {peleador['categoria']}\n"
+            detalles += f"Record: {peleador['record_de_victorias']}\n"
+            detalles += f"Estilo de lucha: {peleador['estilo_de_lucha']}\n"
+            detalles += f"Logros: {peleador['logros']}\n"
+            detalles += f"Entrenador: {peleador['entrenador']}\n"
+            
+            messagebox.showinfo("Detalles del Peleador", detalles)
+            return
+    messagebox.showinfo("No encontrado", "No se encontró un peleador con ese nombre.")
+
 def mostrar_menu():
     ventana = tk.Tk()
     ventana.title("Peleadores")
@@ -122,6 +138,10 @@ def mostrar_menu():
     def opcion_borrar():
         borrar_peleador()
 
+
+    def opcion_buscar():
+        buscar_peleador()
+
     frame = tk.Frame(ventana)
     frame.pack(pady=20)
 
@@ -136,6 +156,9 @@ def mostrar_menu():
 
     boton_borrar = tk.Button(frame, text="Borrar Peleador", width=20, command=opcion_borrar)
     boton_borrar.grid(row=3, column=0, pady=5)
+
+    boton_buscar = tk.Button(frame, text="Buscar Peleador", width=20, command=opcion_buscar)
+    boton_buscar.grid(row=4, column=0, pady=5)
 
     cargar_datos()
 
